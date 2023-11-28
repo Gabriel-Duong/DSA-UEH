@@ -1,0 +1,15 @@
+/Users/gabrielduong/Projects/Google/Google/bin/Debug/net7.0/Google
+/Users/gabrielduong/Projects/Google/Google/bin/Debug/net7.0/Google.deps.json
+/Users/gabrielduong/Projects/Google/Google/bin/Debug/net7.0/Google.runtimeconfig.json
+/Users/gabrielduong/Projects/Google/Google/bin/Debug/net7.0/Google.dll
+/Users/gabrielduong/Projects/Google/Google/bin/Debug/net7.0/Google.pdb
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/Google.csproj.AssemblyReference.cache
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/Google.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/Google.AssemblyInfoInputs.cache
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/Google.AssemblyInfo.cs
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/Google.csproj.CoreCompileInputs.cache
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/Google.dll
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/refint/Google.dll
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/Google.pdb
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/Google.genruntimeconfig.cache
+/Users/gabrielduong/Projects/Google/Google/obj/Debug/net7.0/ref/Google.dll
