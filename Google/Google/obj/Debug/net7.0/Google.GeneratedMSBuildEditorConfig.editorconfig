@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Google
-build_property.ProjectDir = /Users/gabrielduong/Projects/Google/Google/
+build_property.ProjectDir = /Users/gabrielduong/Projects/DSA-UEH/Google/Google/
